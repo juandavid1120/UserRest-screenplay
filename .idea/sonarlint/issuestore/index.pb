@@ -1,0 +1,23 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+ê
+`toolsqapomwithpagefactory/src/test/java/co/com/sofka/stepdefinition/setup/services/Reqresin.java,7\f\7f372448dcc5dcd9eb98d20419420ba4367861af
+t
+DServices/src/main/java/co/com/sofka/questions/ReturnStringValue.java,3\9\39d5d5d18fa853b02203ed94b0d2df29c5706bba
+á
+WServices/src/test/java/co/com/sofka/runner/soap/calculator/add/AddWithCucumberTest.java,a\2\a275c8d07dd95eb5a67734f3106e412415675c3d
+}
+MServices/src/test/java/co/com/sofka/stepdefnitions/soap/calculator/SetUp.java,e\7\e7044c335e3e86522f2814eee7598dd873f41c33
+o
+?Services/src/main/java/co/com/sofka/tasks/calculator/DoGet.java,2\f\2f35f85a87a614b3d57d46179afe1fda00f51e65
+H
+Services/settings.gradle,0\d\0d138654422aab61c18f546167ee45dfbda1a70f
+D
+Services/gradlew.bat,4\a\4a420f968acd747f201faf79ba1ea1dbfde34a33
+@
+Services/gradlew,8\c\8cb6e0c947163a4449c5479b59bfcd02f097a8e0
+E
+Services/build.gradle,8\d\8d44f0890bdf035f9d63286eae53275242701572
+ô
+iServices/src/test/java/co/com/sofka/stepdefnitions/soap/calculator/add/AddWithCucumberStepDefinition.java,2\7\271d3a7632cdbfcd75c554eaeb381512e2840022

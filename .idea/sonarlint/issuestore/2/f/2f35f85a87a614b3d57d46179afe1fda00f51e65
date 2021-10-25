@@ -1,0 +1,9 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(°òõûÿÿÿÿ8ÊÃÄÊ/
+W	java:S125"<This block of commented-out lines of code should be removed.(Ïï©38¡¤ÃÄÊ/
+{
+java:S1612#"YReplace this lambda with method reference 'RequestSpecification::relaxedHTTPSValidation'.(ğñ°˜úÿÿÿÿ8è£ÈÄÊ/
+M
+java:S1068"+Remove this unused "headers" private field.(õ¦¶‡úÿÿÿÿ8ë£ÈÄÊ/
+Q
+java:S1068"/Remove this unused "bodyRequest" private field.(ñ¯Ö”øÿÿÿÿ8ì£ÈÄÊ/
